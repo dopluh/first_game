@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  exports:
+  export_web:
     runs-on: ubuntu-latest
 
     steps:
