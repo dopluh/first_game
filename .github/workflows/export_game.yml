@@ -1,0 +1,9 @@
+name: Export Web
+on: 
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  
